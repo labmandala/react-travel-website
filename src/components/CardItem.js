@@ -15,7 +15,7 @@ function CardItem() {
                </Link>
             </li> 
         </>
-    )
+    );
 }
 
 export default CardItem
